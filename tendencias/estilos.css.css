@@ -1,0 +1,31 @@
+}.IA{
+        background: url("descarga.jpg")
+   }
+   .IA-img{
+padding: 30px;
+   }
+   .IA h3{
+       color: darkgreen;
+   }
+   .IA h2{
+       color: darkmagenta;
+   }
+   
+<section class="IA">
+	<h2>IA</h2>
+    <img class="IA-img" src="visual studio/ia.jpg">
+    <h3>Lengua</h3>
+	<br>
+	<img class="IA-img"src="visual studio/ia2.jpg">
+    <h3>Voz</h3>
+    <br>
+	<img class="IA-img"src="visual studio/ia3.jpg">
+    <h3>Visión</h3>
+    <br>
+	<img class="IA-img"src="visual studio/ia4.jpg">
+    <h3> Robotica</h3>
+    <br>
+</section>
+
+</body>
+</html

@@ -1,0 +1,13 @@
+body {
+	background: #99cc00;
+	color: white;
+}
+
+li{
+	display: inline;
+	padding: 10px;
+}
+
+ol{
+	text-align: right;
+}

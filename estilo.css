@@ -1,0 +1,29 @@
+body{
+    background-color:aqua
+}
+
+li{
+    color: blanchedalmond;
+
+}
+
+}
+.menu{
+    display: flex;
+}
+ 
+
+ justify-content: space-between
+
+ .logo{
+     width: 100px
+ }
+
+ .menu ol li{
+     display: inline;
+     padding: 10px;
+ }
+ .menu ol li a{
+     color: darkred;
+     text-decoration: none;
+ }

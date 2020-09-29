@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background: pink;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+.header {
+    background: rgba(61, 3, 58, 0.884);
+    color: bisque;
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+}
+
+.header li {
+    height: inherit;
+}
+
+.header a {
+   color: lavender;
+    height: inherit;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+.menu {
+height: inherit;
+}
+
+.logo img {
+    width: 100px;
+}
+
+ul {
+    list-style: none; 
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    height: inherit;
+ }
+
+.principal {
+    background-image:url(../img/fondoEspacio.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
